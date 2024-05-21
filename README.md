@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to update my software regularly
 - 📫 How to reach me: pls don't, i'm shy
 - ⚡ Fun fact: i just pretend that i'm good in what i do. fake it till u make it.
-
+- currently learning: Rust, C++, C
 <!---
 sn00m4n/sn00m4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
